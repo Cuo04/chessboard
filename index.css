@@ -1,0 +1,16 @@
+div{
+    width:100px;
+    height:100px;
+    background-color:aqua;
+    margin:1px;
+}
+
+section{
+    display:flex;
+    /* justify-content: space-between;*/
+    justify-content: center;
+    
+}
+/* body{
+    margin:auto;
+} */
